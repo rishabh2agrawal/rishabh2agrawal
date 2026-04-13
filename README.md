@@ -13,16 +13,25 @@
 
 ## About Me
 
-I build projects around AI, backend systems, and full-stack product development.
+🔭 I’m currently working on building production-ready backend systems, with real-world projects involving authentication, APIs, and databases.
 
-What I want my work to feel like:
+👯 I’m looking to collaborate on web development projects, startup ideas, and hackathons where I can contribute to both frontend and backend.
 
-- useful, not just flashy
-- polished, not rushed
-- technical, but still enjoyable to use
-- strong enough that people remember it
+🤝 I’m looking for help with system design, real-world project architecture, and scaling applications.
 
-Most of my projects sit around developer tools, RAG systems, AI assistants, and web products with better UX than the average prototype.
+🌱 I’m currently learning JavaScript, React, and diving deeper into backend & AI-integrated systems.
+
+⚡ Fun fact: I’m obsessed with improving 1% every day and turning ideas into real shipped projects 🚀
+
+
+---
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrawal-rishabh) [![X (Twitter)](https://img.shields.io/badge/X-@rishabh_ag5544-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rishabh_ag5544) [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawal2rishabh@gmail.com)
+
+</div>
 
 ---
 
@@ -32,15 +41,19 @@ Most of my projects sit around developer tools, RAG systems, AI assistants, and 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,typescript&perline=6" alt="languages" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,typescript&perline=8" alt="languages" />
 
 **Frameworks**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&perline=6" alt="frameworks" />
 
-**Backend and Data**
+**Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,pytorch,tensorflow,numpy,matplotlib,anaconda,fastapi&perline=5" alt="backend and data" />
+<img src="https://skillicons.dev/icons?i=mysql,fastapi&perline=5" alt="database" />
+
+**AI/ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,anaconda&perline=5" alt="AI/ML" />
 
 **Tools**
 
@@ -73,27 +86,6 @@ Most of my projects sit around developer tools, RAG systems, AI assistants, and 
 
 ---
 
-## Build Style
-
-I like building things that are:
-
-- clean
-- useful
-- visual
-- technically solid
-- better than the previous version
-
----
-
-## Collaboration
-
-I am interested in working on:
-
-- AI-powered products
-- full-stack apps
-- backend systems
-- developer tools
-- strong hackathon builds
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b132b,40:1d4ed8,75:06b6d4,100:22c55e" alt="footer" />
